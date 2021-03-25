@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c8400a9.chunk.css",
+    "main.js": "/static/js/main.c70e46a2.chunk.js",
+    "main.js.map": "/static/js/main.c70e46a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bda8fb0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bda8fb0b.js.map",
+    "static/js/2.1fe7b10b.chunk.js": "/static/js/2.1fe7b10b.chunk.js",
+    "static/js/2.1fe7b10b.chunk.js.map": "/static/js/2.1fe7b10b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6c8400a9.chunk.css.map": "/static/css/main.6c8400a9.chunk.css.map",
+    "static/js/2.1fe7b10b.chunk.js.LICENSE.txt": "/static/js/2.1fe7b10b.chunk.js.LICENSE.txt",
+    "static/media/common.0513c0a1.svg": "/static/media/common.0513c0a1.svg",
+    "static/media/discord.b4b59a93.svg": "/static/media/discord.b4b59a93.svg",
+    "static/media/legendary.d1b9f558.svg": "/static/media/legendary.d1b9f558.svg",
+    "static/media/rare.1a5512b1.svg": "/static/media/rare.1a5512b1.svg",
+    "static/media/App.css": "/static/media/roboto-slab-v13-latin-regular.d1f41821.ttf",
+    "static/media/twitter.44f93523.svg": "/static/media/twitter.44f93523.svg",
+    "static/media/ultra.4492f15e.svg": "/static/media/ultra.4492f15e.svg",
+    "static/media/uncommon.005d0a82.svg": "/static/media/uncommon.005d0a82.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bda8fb0b.js",
+    "static/js/2.1fe7b10b.chunk.js",
+    "static/css/main.6c8400a9.chunk.css",
+    "static/js/main.c70e46a2.chunk.js"
+  ]
+}
